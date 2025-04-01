@@ -134,3 +134,8 @@ We are happy have the following speakers.
   {% endif %}
 {% endif %}
 </div>
+
+<br>
+<h1><b>Contact</b></h1>
+
+You can reach us by email at [``exait@ethz.ch``](mailto:exait@ethz.ch).
