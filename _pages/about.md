@@ -1,9 +1,16 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Workshop at the International Conference on Machine Learning, <a href="https://icml.cc/virtual/2024/workshop/29964">Saturday, the 19 of July 2025</a>. Vancouver, Canada.
 
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
+
+display_categories: [lecturer, panelist]
+speaker_horizontal: false
+organizer_horizontal: true
 ---
 
 <div style="text-align: justify">
@@ -11,9 +18,3 @@ How can we efficiently collect observations for optimization, control, and gener
 </div>
 ---
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
----
