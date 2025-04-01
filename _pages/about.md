@@ -84,7 +84,7 @@ How can we efficiently collect observations for optimization, control, and gener
 
 <br>
 <!-- Organizers -->
-<h1><b>Organizers and advisors</b></h1>
+<h1><b>Organizing Team</b></h1>
 <p> </p>
 <div class="organizers">
 {% if site.enable_organizer_categories and page.display_categories %}
