@@ -7,5 +7,5 @@ importance: 3
 category: organizer
 website: https://lenarttreven.github.io/
 scholar: https://scholar.google.com/citations?user=CDnzTWkAAAAJ&hl=en
-x_username: https://x.com/LenartTreven
+twitter: https://x.com/LenartTreven
 ---

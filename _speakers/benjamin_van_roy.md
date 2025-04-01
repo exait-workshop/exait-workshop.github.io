@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Benjamin Van Roy
-affiliation: Stanford
+affiliation: Stanford, Google DeepMind
 img: assets/img/bvr_square.jpg
 importance: 7
 category: lecturer

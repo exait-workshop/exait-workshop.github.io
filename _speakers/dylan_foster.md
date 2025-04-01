@@ -7,5 +7,5 @@ importance: 4
 category: lecturer
 website: https://dylanfoster.net/
 scholar: https://scholar.google.com/citations?user=RqwU8xsAAAAJ&hl=en
-x_username: https://x.com/canondetortugas/
+twitter: https://x.com/canondetortugas/
 ---

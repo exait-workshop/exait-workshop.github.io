@@ -7,5 +7,5 @@ importance: 1
 category: lecturer
 website: https://people.eecs.berkeley.edu/~svlevine/
 scholar: https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=en
-x_username: https://twitter.com/svlevine
+twitter: https://twitter.com/svlevine
 ---

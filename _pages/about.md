@@ -6,7 +6,7 @@ subtitle: Workshop at the International Conference on Machine Learning, <a href=
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: logo_exait.png
   image_circular: false # crops the image to make it circular
     
 news: false # includes a list of news items

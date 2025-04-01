@@ -7,5 +7,5 @@ importance: 9
 category: advisor
 website: https://las.inf.ethz.ch/krausea
 scholar: https://scholar.google.com/citations?user=eDHv58AAAAAJ&hl=en
-x_username: https://x.com/arkrause
+twitter: https://x.com/arkrause
 ---

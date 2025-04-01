@@ -6,5 +6,5 @@ img: assets/img/ji_won_park.jpg
 category: lecturer
 website: https://jiwoncpark.github.io/
 scholar: https://scholar.google.com/citations?user=URG3MMYAAAAJ&hl=en
-x_username: https://twitter.com/jiwoncpark
+twitter: https://twitter.com/jiwoncpark
 ---
