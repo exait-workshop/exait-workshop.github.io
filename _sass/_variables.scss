@@ -26,7 +26,7 @@ $yellow-color: #efcc00 !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
-$grey-color-dark: #2d363a;
+$grey-color-dark: #2d363b;
 $grey-900: #2d363a;
 
 $white-color: #ffffff !default;
@@ -35,7 +35,7 @@ $black-color: #000000 !default;
 // Theme colors
 
 $code-bg-color-light: rgba($purple-color, 0.05);
-$code-bg-color-dark: #2d363a !default;
+$code-bg-color-dark: #2d363b !default;
 
 // Font awesome location
 $fa-font-path: "../webfonts";
