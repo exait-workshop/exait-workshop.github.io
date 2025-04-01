@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Workshop at the International Conference on Machine Learning, <a href="https://icml.cc/virtual/2025/workshop/39958">Saturday, the 19 of July 2025</a>. Vancouver, Canada.
+subtitle: Workshop at the International Conference on Machine Learning, <a href="https://icml.cc/virtual/2025/workshop/39958">18-19 of July 2025</a>. Vancouver, Canada.
 
 profile:
   align: right
