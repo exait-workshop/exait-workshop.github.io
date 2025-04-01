@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-schedule",
           title: "Schedule",
-          description: "The session will cover invited talks, contributed talks and posters. The tentative schedule in Central European Summer Time (GMT+2) can be found below.",
+          description: "The session will cover invited talks, contributed talks and posters. The tentative schedule in Pacific Time (GMT-7) can be found below.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/schedule/";
