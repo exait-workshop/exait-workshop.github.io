@@ -153,6 +153,9 @@ collections:
     output: true
   projects:
     output: true
+  speakers:
+    output: true
+    permalink: /speakers/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
