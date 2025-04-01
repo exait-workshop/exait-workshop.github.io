@@ -7,4 +7,5 @@ importance: 8
 category: advisor
 website: https://homes.cs.washington.edu/~jamieson/about.html
 scholar: https://scholar.google.com/citations?user=dq3yXjkAAAAJ&hl=en
+x_username: https://x.com/kgjamieson
 ---

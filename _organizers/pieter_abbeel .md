@@ -7,4 +7,5 @@ importance: 10
 category: advisor
 website: https://people.eecs.berkeley.edu/~pabbeel/
 scholar: https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=en
+x_username: https://x.com/pabbeel
 ---

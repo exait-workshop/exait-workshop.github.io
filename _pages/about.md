@@ -2,8 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: Workshop at the International Conference on Machine Learning, <a href="https://icml.cc/virtual/2024/workshop/29964">Saturday, the 19 of July 2025</a>. Vancouver, Canada.
+subtitle: Workshop at the International Conference on Machine Learning, <a href="https://icml.cc/virtual/2025/workshop/39958">Saturday, the 19 of July 2025</a>. Vancouver, Canada.
 
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+    
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -21,7 +26,7 @@ How can we efficiently collect observations for optimization, control, and gener
 <!-- Speakers -->
 <br>
 <h1><b>Speakers</b></h1>
-We are happy have the following speakers.
+
 <div class="speakers">
 {% if site.enable_speaker_categories and page.display_categories %}
   <!-- Display categorized speakers -->

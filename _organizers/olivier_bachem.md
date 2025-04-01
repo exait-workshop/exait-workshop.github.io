@@ -7,4 +7,5 @@ importance: 7
 category: advisor
 website: https://olivierbachem.ch/
 scholar: https://scholar.google.ch/citations?user=mW9BcgsAAAAJ&hl=en
+x_username: https://x.com/OlivierBachem
 ---

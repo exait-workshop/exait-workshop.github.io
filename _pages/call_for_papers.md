@@ -14,18 +14,17 @@ nav_order: 1
 <br>
 <h2>Important dates</h2>
 
-- Submission deadline: TBD
-- Submission link: TBD
-- Notification of acceptance: TBD
-- Posters and camera ready: TBD
+- Submission deadline: 13 April 2025
+- Submission link: 26 May 2025 AOE (NeurIPS supplementray deadline is 22nd)
+- Notification of acceptance: 30 June 2025
+- Posters and camera ready: 9 July 2025 AOE
 
 <br>
-<h2>Submission instructions</h2>
+<h2>Scope</h2>
 
-- TBD
+TBD
 
 <br>
-<h2>Topics</h2>
+<h2>Submisison Guidelines</h2>
 
-The workshop will cover a range of sub-topics including (but not limited to):
-- TBD
+TBD

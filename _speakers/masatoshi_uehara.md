@@ -7,5 +7,5 @@ importance: 6
 category: lecturer
 website: https://www.masatoshiuehara.com/
 scholar: https://scholar.google.co.jp/citations?user=xuLKJboAAAAJ&hl=en
-twitter: https://twitter.com/Masa_Uehara_1
+x_username: https://twitter.com/Masa_Uehara_1
 ---
