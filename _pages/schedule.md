@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: The session will cover invited talks, contributed talks and posters. The tentative schedule in Central European Summer Time (GMT+2) can be found below.
+description: The session will cover invited talks, contributed talks and posters. The tentative schedule in Pacific Time (GMT-7) can be found below.
 nav: true
 nav_order: 2
 ---
@@ -11,7 +11,7 @@ nav_order: 2
 
 <div>
 <table class="table" id="standings" style="border-collapse:collapse">
-<tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
+<tr class="header" style="background-color:rgb(188,198,100); border-top: 1pt solid #f7f8fa; border-bottom: 1pt solid black;">
         <th style="border-top-left-radius: 10px; width: 15%">Time</th>
         <!-- <th>Virtual link</th> -->
         <th style="width: 15%">Type</th>
