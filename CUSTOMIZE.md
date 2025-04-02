@@ -44,12 +44,6 @@ The configuration file [\_config.yml](_config.yml) contains the main configurati
 
 All changes made to this file are only visible after you rebuild the website. That means that you need to run `bundle exec jekyll serve` again if you are running the website locally or push your changes to GitHub if you are using GitHub Pages. All other changes are visible immediately, you only need to refresh the page.
 
-## Modifying the CV information
-
-There are currently 2 different ways of generating the CV page content. The first one is by using a json file located in [assets/json/resume.json](assets/json/resume.json). It is a [known standard](https://jsonresume.org/) for creating a CV programmatically. The second one, currently used as a fallback when the json file is not found, is by using a yml file located in [\_data/cv.yml](_data/cv.yml). This was the original way of creating the CV page content and since it is more human readable than a json file we decided to keep it as an option.
-
-What this means is, if there is no resume data defined in [\_config.yml](_config.yml) and loaded via a json file, it will load the contents of [\_data/cv.yml](_data/cv.yml). If you want to use the [\_data/cv.yml](_data/cv.yml) file as the source of your CV, you must delete the [assets/json/resume.json](assets/json/resume.json) file.
-
 ## Modifying the user and repository information
 
 The user and repository information is defined in [\_data/repositories.yml](_data/repositories.yml). You can add as many users and repositories as you want. Both informations are used in the `repositories` section.
@@ -78,17 +72,9 @@ You can add news in the about page by adding new Markdown files in the [\_news](
 
 This Jekyll theme implements [collections](https://jekyllrb.com/docs/collections/) to let you break up your work into categories. The theme comes with three default collections: `news`, `projects`, and `books`. Items from the `news` collection are automatically displayed on the home page, while items from the `projects` collection are displayed on a responsive grid on projects page and items from the `books` collection are displayed on its own `bookshelf` page inside `submenus`.
 
-You can easily create your own collections, apps, short stories, courses, or whatever your creative work is. To do this, edit the collections in the [\_config.yml](_config.yml) file, create a corresponding folder, and create a landing page for your collection, similar to [\_pages/projects.md](_pages/projects.md).
-
 If you wish to create a collection with support for categories and tags, like the blog posts, you just need to add this collection to the `jekyll-archives` section of your [\_config.yml](_config.yml) file. You can check how this is done with the `books` collection. For more information about customizing the archives section or creating your own archives page, check the [jekyll-archives-v2 documentation](https://george-gca.github.io/jekyll-archives-v2/).
 
 To access the collections, you can use the `site.COLLECTION_NAME` variable in your templates.
-
-## Adding a new publication
-
-To add publications create a new entry in the [\_bibliography/papers.bib](_bibliography/papers.bib) file. You can find the BibTeX entry of a publication in Google Scholar by clicking on the quotation marks below the publication title, then clicking on "BibTeX", or also in the conference page itself. By default, the publications will be sorted by year and the most recent will be displayed first. You can change this behavior and more in the `Jekyll Scholar` section in [\_config.yml](_config.yml) file.
-
-You can add extra information to a publication, like a PDF file in the `assets/pdfs/` directory and add the path to the PDF file in the BibTeX entry with the `pdf` field. Some of the supported fields are: `abstract`, `altmetric`, `annotation`, `arxiv`, `bibtex_show`, `blog`, `code`, `dimensions`, `doi`, `eprint`, `html`, `isbn`, `pdf`, `pmid`, `poster`, `slides`, `supp`, `video`, and `website`.
 
 ### Author annotation
 
@@ -168,32 +154,11 @@ Since this template have a lot of content, you may want to remove some of it. Th
 ```yml
 exclude:
   - _news/announcement_*.md
-  - _pages/blog.md
-  - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
 ```
 
 Here is a list of the main components that you may want to delete, and how to do it. Don't forget if you delete a page to update the `nav_order` of the remaining pages.
-
-### Removing the blog page
-
-To remove the blog, you have to:
-
-- delete [\_posts](_posts/) directory
-- delete blog page [\_pages/blog.md](_pages/blog.md)
-- remove reference to blog page in our [\_pages/dropdown.md](_pages/dropdown.md)
-- remove the `latest_posts` part in [\_pages/about.md](_pages/about.md)
-- remove the `Blog` section in the [\_config.yml](_config.yml) file and the related parts, like the `jekyll-archives`
-
-You can also:
-
-- delete [\_includes/latest_posts.liquid](_includes/latest_posts.liquid)
-- delete [\_includes/related_posts.liquid](_includes/related_posts.liquid)
-- delete [\_layouts/archive.liquid](_layouts/archive.liquid) (unless you have a custom collection that uses it)
-- delete [\_plugins/external-posts.rb](_plugins/external-posts.rb)
-- remove the `jekyll-archives-v2` gem from the [Gemfile](Gemfile) and the `plugins` section in [\_config.yml](_config.yml) (unless you have a custom collection that uses it)
-- remove the `classifier-reborn` gem from the [Gemfile](Gemfile)
 
 ### Removing the news section
 
@@ -204,46 +169,10 @@ To remove the news section, you can:
 - remove the `announcements` part in [\_pages/about.md](_pages/about.md)
 - remove the news part in the `Collections` section in the [\_config.yml](_config.yml) file
 
-### Removing the projects page
-
-To remove the projects, you can:
-
-- delete the [\_projects](_projects/) directory
-- delete the projects page [\_pages/projects.md](_pages/projects.md)
-- remove reference to projects page in our [\_pages/dropdown.md](_pages/dropdown.md)
-- remove projects part in the `Collections` section in the [\_config.yml](_config.yml) file
-
 You can also:
 
 - delete [\_includes/projects_horizontal.liquid](_includes/projects_horizontal.liquid)
 - delete [\_includes/projects.liquid](_includes/projects.liquid)
-
-### Removing the publications page
-
-To remove the publications, you can:
-
-- delete the [\_bibliography](_bibliography/) directory
-- delete the publications page [\_pages/publications.md](_pages/publications.md)
-- remove reference to publications page in our [\_pages/dropdown.md](_pages/dropdown.md)
-- remove `Jekyll Scholar` section in the [\_config.yml](_config.yml) file
-
-You can also:
-
-- delete the [\_layouts/bib.liquid](_layouts/bib.liquid) file
-- delete [\_includes/bib_search.liquid](_includes/bib_search.liquid)
-- delete [\_includes/citation.liquid](_includes/citation.liquid)
-- delete [\_includes/selected_papers.liquid](_includes/selected_papers.liquid)
-- delete [\_plugins/google-scholar-citations.rb](_plugins/google-scholar-citations.rb)
-- delete [\_plugins/hide-custom-bibtex.rb](_plugins/hide-custom-bibtex.rb)
-- delete [\_plugins/inspirehep-citations.rb](_plugins/inspirehep-citations.rb)
-- remove the `jekyll-scholar` gem from the [Gemfile](Gemfile) and the `plugins` section in [\_config.yml](_config.yml)
-
-### Removing the repositories page
-
-To remove the repositories, you can:
-
-- delete the repositories page [\_pages/repositories.md](_pages/repositories.md)
-- delete [\_includes/repository/](_includes/repository/) directory
 
 ## Adding Token for Lighthouse Badger
 
