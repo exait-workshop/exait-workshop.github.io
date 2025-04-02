@@ -1,0 +1,17 @@
+- name: G-Research
+  logo: gresearch.png
+  url: https://www.gresearch.com/
+  category: Silver
+  importance: 1
+
+- name: NCCR
+  logo: nccr_logo.svg
+  url: https://nccr-automation.ch/
+  category: Silver
+  importance: 2
+
+- name: ETH AI Center
+  logo: eth_ai_center_logo.svg
+  url: https://ai.ethz.ch/
+  category: Bronze
+  importance: 1

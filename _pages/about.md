@@ -13,7 +13,8 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
-display_categories: [organizer, advisor]
+display_categories: [Organizer, Advisor]
+display_sponsor_categories: [silver, Bronze]
 speaker_horizontal: true
 organizer_horizontal: flase
 ---
@@ -143,22 +144,23 @@ How can we efficiently collect observations for optimization, control, and gener
 <br>
 <h1><b>Sponsors</b></h1>
 
-<h2>Silver</h2>
-<div style="display: flex; gap: 2rem; align-items: center; justify-content: center; margin-bottom: 2rem;">
-  <img src="{{ '/assets/logos/gresearch.png' | relative_url }}" alt="G-Research" style="height: 60px;">
-  <img src="{{ '/assets/logos/nccr_logo.svg' | relative_url }}" alt="NCCR" style="height: 60px;">
-</div>
-
-<h2>Bronze</h2>
-<div style="display: flex; gap: 2rem; align-items: center; justify-content: center;">
-  <img src="{{ '/assets/logos/eth_ai_center_logo.svg' | relative_url }}" alt="ETH AI Center" style="height: 60px;">
-</div>
-
-<h2>Bronze 2</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center; justify-content: center;">
-  <a href="https://ai.ethz.ch/" target="_blank" rel="noopener noreferrer">
-    <img src="{{ '/assets/logos/eth_ai_center_logo.svg' | relative_url }}" alt="ETH AI Center" style="height: 60px;">
+<div class="sponsors">
+{% for category in page.display_sponsor_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
   </a>
+
+  {% assign categorized_sponsors = site.data.sponsors | where: "category", category %}
+  {% assign sorted_sponsors = categorized_sponsors | sort: "importance" %}
+
+  <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center; justify-content: center; margin-bottom: 2rem;">
+    {% for sponsor in sorted_sponsors %}
+      <a href="{{ sponsor.url }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ '/assets/logos/' | append: sponsor.logo | relative_url }}" alt="{{ sponsor.name }}" style="height: 60px;">
+      </a>
+    {% endfor %}
+  </div>
+{% endfor %}
 </div>
 
 <br>
