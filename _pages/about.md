@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 display_categories: [Organizer, Advisor]
-display_sponsor_categories: [silver, Bronze]
+display_sponsor_categories: [Silver, Bronze]
 speaker_horizontal: true
 organizer_horizontal: flase
 ---
