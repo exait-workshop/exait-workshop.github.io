@@ -14,8 +14,8 @@ nav_order: 1
 <br>
 <h2>Important dates</h2>
 
-- Submission deadline: 13 April 2025
-- Submission link: 26 May 2025 AOE (NeurIPS supplementray deadline is 22nd)
+- Submissions open: 13 April 2025
+- Submission deadline: 26 May 2025 AOE (NeurIPS supplementray deadline is 22nd)
 - Notification of acceptance: 30 June 2025
 - Posters and camera ready: 9 July 2025 AOE
 

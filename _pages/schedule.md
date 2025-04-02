@@ -64,7 +64,7 @@ nav_order: 2
   <tr class="header" style="cursor: pointer">
     <td>14:00-15:30</td>
     <td>
-    Invited Talks
+    Invited talks
     </td>
     <td>
             Invited talks by Ben, Dylan and Rishabh (Language modeling session)
