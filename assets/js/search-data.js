@@ -23,16 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/schedule/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+        },{id: "news-we-have-a-website",
+          title: 'We have a website!',
           description: "",
           section: "News",},{id: "organizers-amy-x-lu",
           title: 'Amy_x_lu',
