@@ -141,6 +141,27 @@ How can we efficiently collect observations for optimization, control, and gener
 </div>
 
 <br>
+<h1><b>Sponsors</b></h1>
+
+<h2>Silver</h2>
+<div style="display: flex; gap: 2rem; align-items: center; justify-content: center; margin-bottom: 2rem;">
+  <img src="{{ '/assets/logos/gresearch.png' | relative_url }}" alt="G-Research" style="height: 60px;">
+  <img src="{{ '/assets/logos/nccr_logo.svg' | relative_url }}" alt="NCCR" style="height: 60px;">
+</div>
+
+<h2>Bronze</h2>
+<div style="display: flex; gap: 2rem; align-items: center; justify-content: center;">
+  <img src="{{ '/assets/logos/eth_ai_center_logo.svg' | relative_url }}" alt="ETH AI Center" style="height: 60px;">
+</div>
+
+<h2>Bronze 2</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center; justify-content: center;">
+  <a href="https://ai.ethz.ch/" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/assets/logos/eth_ai_center_logo.svg' | relative_url }}" alt="ETH AI Center" style="height: 60px;">
+  </a>
+</div>
+
+<br>
 <h1><b>Contact</b></h1>
 
 You can reach us by email at [``exait@ethz.ch``](mailto:exait@ethz.ch).
