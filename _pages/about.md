@@ -20,7 +20,10 @@ organizer_horizontal: flase
 ---
 
 <div style="text-align: justify">
-How can we efficiently collect observations for optimization, control, and generalization? This is a key challenge in AI and is known as the exploration problem. Effective exploration has driven progress in areas such as robotics, recommender systems, and scheduled medical trials. However, as we address larger, more complex applications---such as drug discovery or language modeling---the exceptionally large search spaces render traditional exploration algorithms ineffective. As a result, recent breakthroughs in AI have come not from traditional exploration algorithms, but largely from training large foundation models on diverse corpora of pre-existing, curated datasets. Despite this, we have witnessed sparks showing that exploration, when done right, can compensate for data and computation---for example, in the training of DeepSeek-R1---suggesting that exploration can still play a key role in AI today.
+How can we efficiently collect observations that enable effective learning, control, and optimization? This is a key challenge across AI and can be broadly referred to as the problem of exploration. Effective approaches to exploration have driven progress in areas such as robotics, recommender systems, and medical trials. However, as we address larger, more complex applications—such as drug discovery or language modeling—the exceptionally large search spaces of such settings render traditional exploration algorithms ineffective. 
+
+The Exploration in AI Today (\workshop) Workshop at ICML 2025 will focus on addressing the evolving role of exploration in AI. We will dwell on the question: what is the place of exploration in today's AI landscape and in which settings can exploration algorithms address current open challenges?
+In particular, we consider the potentially pivotal role that exploration might play in navigating complex and high-dimensional search spaces across real-world applications such as robotics, large language model alignment, and AI for science.
 </div>
 ---
 
