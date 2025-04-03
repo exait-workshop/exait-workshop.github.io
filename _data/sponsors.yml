@@ -1,8 +1,8 @@
-#- name: G-Research
-#  logo: gresearch.png
-#  url: https://www.gresearch.com/
-#  category: Silver
-#  importance: 1
+- name: G-Research
+  logo: gresearch.png
+  url: https://www.gresearch.com/
+  category: Silver
+  importance: 1
 
 - name: NCCR
   logo: nccr_logo.svg
