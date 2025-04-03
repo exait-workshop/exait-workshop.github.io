@@ -23,10 +23,10 @@ The Exploration in AI Today Workshop will focus on the question of how explorati
 We welcome paper submissions addressing such questions, as well as other challenges related to exploration in AI, across domains such as:
 
 <ul>
-<li>LLMs and AI alignment.</li>
-<li>Robotics.</li>
+<li>LLMs, AI agents, and AI alignment.</li>
+<li>Robotics and control.</li>
 <li>AI for science and drug discovery.</li>
-<li>Reinforcement learning and control.</li>
+<li>Reinforcement learning.</li>
 <li>Active learning, experiment design, and Bayesian optimization.</li>
 <li>Recommendation systems and A/B testing.</li>
 </ul>
