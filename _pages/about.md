@@ -144,7 +144,7 @@ How can we efficiently collect observations for optimization, control, and gener
 <br>
 <h1><b>Sponsors</b></h1>
 
-<div class="sponsors">
+<div class="speakers">
 {% for category in page.display_sponsor_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
