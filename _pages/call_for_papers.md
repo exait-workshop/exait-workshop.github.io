@@ -34,7 +34,7 @@ We welcome paper submissions addressing such questions, as well as other challen
 
 <br>
 <h2>Best Paper Awards</h2>
-We will be awarding a total of four best paper awards, with one award given to a paper in each of the following categories: LLMs, Robotics, AI for Science, and Theory. Each winning paper will be awarded a cash prize of <b>$500 USD</b>, and will be highlighed with a spotlight talk at the workshop.
+We will be awarding a total of four best paper awards, with one award given to a paper under each of our four submission tracks: Language Modeling, Robotics, AI for Science, and Theory. Each winning paper will be awarded a cash prize of <b>$500 USD</b>, and will be highlighed with a spotlight talk at the workshop.
 
 <br>
 <h2>Important Dates</h2>
