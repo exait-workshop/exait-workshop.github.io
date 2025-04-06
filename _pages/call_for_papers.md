@@ -33,7 +33,11 @@ We welcome paper submissions addressing such questions, as well as other challen
 </div>
 
 <br>
-<h2>Important dates</h2>
+<h2>Best Paper Awards</h2>
+We will be awarding a total of four best paper awards, with one award given to a paper in each of the following categories: LLMs, Robotics, AI for Science, and Theory. Each winning paper will be awarded a cash prize of <b>$500 USD</b>, and will be highlighed with a spotlight talk at the workshop.
+
+<br>
+<h2>Important Dates</h2>
 
 - Submissions open: 13 April 2025
 - Submission deadline: 26 May 2025 AOE (NeurIPS supplementray deadline is 22nd)
