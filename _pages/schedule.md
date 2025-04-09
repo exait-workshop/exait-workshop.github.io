@@ -47,7 +47,7 @@ nav_order: 2
     Panel Discussion
     </td>
     <td>
-            Panel discussion lead by TBD
+            Panel discussion led by TBD
     </td>
   </tr>
 
@@ -67,7 +67,7 @@ nav_order: 2
     Invited talks
     </td>
     <td>
-            Invited talks by Ben, Dylan and Rishabh (Language modeling session)
+            Invited talks by Ben, Dylan, and Rishabh (Language modeling session)
     </td>
   </tr>
 
