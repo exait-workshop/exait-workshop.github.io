@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Rishabh Agarwal
-affiliation: Google DeepMind
+affiliation: Meta
 img: assets/img/rishabh_agarwal.jpg
 importance: 2
 category: lecturer
