@@ -49,4 +49,15 @@ We will be awarding a total of four best paper awards, with one award given to a
 <br>
 <h2>Submisison Guidelines</h2>
 
-TBD
+All submissions must be in PDF format, and in a single PDF file include, in this suggested order:
+
+1. The submitted paper content
+2. Paper references
+
+
+The authors may optionally choose to include some or all of the technical appendices in the same PDF above. But those included parts cannot be changed after the full submission deadline.
+
+The main text of a submitted paper is limited to seven content pages, including all figures and tables. Additional pages containing references, and the optional technical appendices do not count as content pages. If your submission is accepted, you will be allowed an additional content page for the camera-ready version. The maximum file size for a main paper submission is 50MB.
+
+You must format your submission using the [ICML 2025 EXAIT LaTeX style file](../assets/files/EXAIT Workshop at ICML 2025 Template.zip) (Based on NeurIPS 2025 LaTeX style file), which includes a "preprint" option for non-anonymous preprints posted online. Submissions that violate the ICML 2025 EXAIT style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review. Papers may also be rejected without consideration of their merits if they fail to meet the submission requirements, as described in this document.
+
