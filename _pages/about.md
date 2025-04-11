@@ -18,6 +18,7 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
   
+
 display_categories: [Organizer, Advisor]
 display_sponsor_categories: [Silver, Bronze]
 speaker_horizontal: true
@@ -29,6 +30,16 @@ How can we efficiently collect observations that enable effective learning, cont
 
 The Exploration in AI Today Workshop at ICML 2025 will focus on addressing the evolving role of exploration in AI. We will dwell on the question: what is the place of exploration in today's AI landscape and in which settings can exploration algorithms address current open challenges? In particular, we consider the potentially pivotal role that exploration might play in navigating complex and high-dimensional search spaces across real-world applications such as robotics, large language model alignment, and AI for science.
 </div>
+
+<!-- News -->
+{% if page.announcements and page.announcements.enabled %}
+  <h2>
+    <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+  </h2>
+  {% include news.liquid limit=true %}
+{% endif %}
+
+
 ---
 
 <!-- Speakers -->
