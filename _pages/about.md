@@ -31,6 +31,8 @@ How can we efficiently collect observations that enable effective learning, cont
 The Exploration in AI Today Workshop at ICML 2025 will focus on addressing the evolving role of exploration in AI. We will dwell on the question: what is the place of exploration in today's AI landscape and in which settings can exploration algorithms address current open challenges? In particular, we consider the potentially pivotal role that exploration might play in navigating complex and high-dimensional search spaces across real-world applications such as robotics, large language model alignment, and AI for science.
 </div>
 
+<br><br>
+
 <!-- News -->
 {% if page.announcements and page.announcements.enabled %}
   <h2>
