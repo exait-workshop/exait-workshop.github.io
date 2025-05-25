@@ -40,7 +40,7 @@ We will be awarding a total of four best paper awards, with one award given to a
 <h2>Important Dates</h2>
 
 - Submissions open: 13 April 2025
-- Submission deadline: 26 May 2025 AOE (NeurIPS supplementray deadline is 22nd)
+- Submission deadline: 31 May 2025 AOE (NeurIPS supplementray deadline is 22nd)
 - Submission link: [https://openreview.net/group?id=ICML.cc/2025/Workshop/EXAIT](https://openreview.net/group?id=ICML.cc/2025/Workshop/EXAIT)
 - Notification of acceptance: 30 June 2025
 - Posters and camera ready: 9 July 2025 AOE
