@@ -36,7 +36,7 @@ nav_order: 2
     Invited Talks
     </td>
     <td>
-            Invited talks by Alison, Sergey, and Dorsa (Theory, RL, and Robotics session)
+            Invited talks by Alison, and Sergey (Theory, RL, and Robotics session)
     </td>
   </tr>
   
