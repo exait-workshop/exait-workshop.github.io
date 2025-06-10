@@ -23,11 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/schedule/";
           },
-        },{id: "news-we-are-looking-for-reviewers-and-area-chairs-sign-up-here",
-          title: 'We are looking for reviewers and area chairs, sign up here!',
-          description: "",
-          section: "News",},{id: "news-the-workshop-will-be-held-on-july-19th-at-ballroom-a-east-building",
-          title: 'The workshop will be held on July 19th, at Ballroom A, East Building....',
+        },{id: "news-the-workshop-will-be-held-on-july-19th-at-meeting-room-205-207",
+          title: 'The workshop will be held on July 19th, at Meeting Room 205-207.',
           description: "",
           section: "News",},{id: "organizers-amy-x-lu",
           title: 'Amy_x_lu',
@@ -89,11 +86,6 @@ ninja.data = [{
           description: "",
           section: "Speakers",handler: () => {
               window.location.href = "/speakers/benjamin_van_roy/";
-            },},{id: "speakers-dorsa-sadigh",
-          title: 'Dorsa_sadigh',
-          description: "",
-          section: "Speakers",handler: () => {
-              window.location.href = "/speakers/dorsa_sadigh/";
             },},{id: "speakers-dylan-foster",
           title: 'Dylan_foster',
           description: "",
