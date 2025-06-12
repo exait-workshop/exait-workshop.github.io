@@ -10,7 +10,11 @@ nav_order: 2  # adjust to control tab order (this puts it between "Call for Pape
 <h2><b>Area Chairs</b></h2>
 <ul>
   <li>Theory, Robotics, and Language Modeling: Bhavya Sukhija, Andrew Wagenmaker, Parnian Kassraie, Lenart Treven, Carmelo Sferrazza</li>
-  <li>AI for Science: Vignesh Ram Somnath, Mojmír Mutný</li>
+  <li>
+  AI for Science:
+  <a href="https://vsomnath.github.io/" target="_blank" rel="noopener noreferrer">Vignesh Ram Somnath</a>,
+  <a href="https://mojmirmutny.github.io/" target="_blank" rel="noopener noreferrer">Mojmír Mutný</a>
+</li>
 </ul>
 
 <h2><b>Best Papers</b></h2>
