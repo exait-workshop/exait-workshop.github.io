@@ -16,9 +16,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cfp/";
           },
+        },{id: "nav-accepted-papers",
+          title: "Accepted Papers",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/ap/";
+          },
         },{id: "nav-schedule",
           title: "Schedule",
-          description: "The session will cover invited talks, contributed talks and posters. The tentative schedule in Pacific Time (GMT-7) can be found below.",
+          description: "The session will cover invited talks, contributed talks and posters. The tentative schedule in Pacific Time (GMT-7) can be found below. All events take place at Meeting Room 205-207.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/schedule/";
@@ -91,6 +98,11 @@ ninja.data = [{
           description: "",
           section: "Speakers",handler: () => {
               window.location.href = "/speakers/dylan_foster/";
+            },},{id: "speakers-jeff-clune",
+          title: 'Jeff_clune',
+          description: "",
+          section: "Speakers",handler: () => {
+              window.location.href = "/speakers/jeff_clune/";
             },},{id: "speakers-ji-won-park",
           title: 'Ji_won_park',
           description: "",
