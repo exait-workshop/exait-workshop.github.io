@@ -2,9 +2,9 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: The session will cover invited talks, contributed talks and posters. The tentative schedule in Pacific Time (GMT-7) can be found below.
+description: The session will cover invited talks, contributed talks and posters. The tentative schedule in Pacific Time (GMT-7) can be found below. All events take place at Meeting Room 205-207. 
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <br>
@@ -15,7 +15,7 @@ nav_order: 2
         <th style="border-top-left-radius: 10px; width: 15%">Time</th>
         <!-- <th>Virtual link</th> -->
         <th style="width: 15%">Type</th>
-        <th style="width: 70% border-top-right-radius: 10px;">Title & Speakers</th>
+        <th style="width: 70% border-top-right-radius: 10px;">Details</th>
         <!-- <th style="width: 25% border-top-right-radius: 10px;">Speakers (Affiliations)</th> -->
       </tr>
       <tr>
@@ -36,7 +36,7 @@ nav_order: 2
     Invited Talks
     </td>
     <td>
-            Invited talks by Alison, and Sergey (Theory, RL, and Robotics session)
+            Alison, Sergey, and Jeff (Theory, RL, and Robotics session)
     </td>
   </tr>
   
@@ -67,7 +67,7 @@ nav_order: 2
     Invited talks
     </td>
     <td>
-            Invited talks by Ben, Dylan, and Rishabh (Language modeling session)
+            Ben, Dylan, and Rishabh (Language modeling session)
     </td>
   </tr>
 
@@ -87,7 +87,7 @@ nav_order: 2
     Invited talks
     </td>
     <td>
-            Invited talks by Ji Won and Masatoshi (AI for science session)
+            Ji Won and Masatoshi (AI for science session)
     </td>
   </tr>
 
