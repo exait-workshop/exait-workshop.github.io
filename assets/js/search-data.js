@@ -88,11 +88,6 @@ ninja.data = [{
           description: "",
           section: "Speakers",handler: () => {
               window.location.href = "/speakers/alison_gopnik/";
-            },},{id: "speakers-benjamin-van-roy",
-          title: 'Benjamin_van_roy',
-          description: "",
-          section: "Speakers",handler: () => {
-              window.location.href = "/speakers/benjamin_van_roy/";
             },},{id: "speakers-dylan-foster",
           title: 'Dylan_foster',
           description: "",
@@ -113,6 +108,11 @@ ninja.data = [{
           description: "",
           section: "Speakers",handler: () => {
               window.location.href = "/speakers/masatoshi_uehara/";
+            },},{id: "speakers-natasha-jaques",
+          title: 'Natasha_jaques',
+          description: "",
+          section: "Speakers",handler: () => {
+              window.location.href = "/speakers/natasha_jaques/";
             },},{id: "speakers-rishabh-agarwal",
           title: 'Rishabh_agarwal',
           description: "",
