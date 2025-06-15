@@ -14,7 +14,7 @@ nav_order: 3
 <tr class="header" style="background-color:rgb(188,198,100); border-top: 1pt solid #f7f8fa; border-bottom: 1pt solid black;">
         <th style="border-top-left-radius: 10px; width: 15%">Time</th>
         <!-- <th>Virtual link</th> -->
-        <th style="width: 15%">Type</th>
+        <th style="width: 15%">Session</th>
         <th style="width: 70% border-top-right-radius: 10px;">Details</th>
         <!-- <th style="width: 25% border-top-right-radius: 10px;">Speakers (Affiliations)</th> -->
       </tr>
@@ -25,7 +25,7 @@ nav_order: 3
     Opening Remarks
     </td>
     <td>
-    TBD
+    By Andreas Krause
     </td>
   </tr>
   
@@ -33,10 +33,10 @@ nav_order: 3
   <tr class="header" style="cursor: pointer">
     <td>9:00-10:30</td>
     <td>
-    Invited Talks
+    RL and Robotics
     </td>
     <td>
-            Alison, Sergey, and Jeff (Theory, RL, and Robotics session)
+            Invited talks by Alison, Sergey, and Jeff
     </td>
   </tr>
   
@@ -64,10 +64,10 @@ nav_order: 3
   <tr class="header" style="cursor: pointer">
     <td>14:00-15:30</td>
     <td>
-    Invited talks
+    Language Modeling
     </td>
     <td>
-            Ben, Dylan, and Rishabh (Language modeling session)
+            Invited talks by Natasha, Dylan, and Rishabh
     </td>
   </tr>
 
@@ -84,10 +84,10 @@ nav_order: 3
   <tr class="header" style="cursor: pointer">
     <td>16:00-17:00</td>
     <td>
-    Invited talks
+    AI for Science
     </td>
     <td>
-            Ji Won and Masatoshi (AI for science session)
+            Invited talks by Ji Won and Masatoshi
     </td>
   </tr>
 
@@ -104,9 +104,9 @@ nav_order: 3
   <tr class="header" style="cursor: pointer">
     <td>17:00-18:00</td>
     <td>
-    Closing remarks and sponsored apéro
+    Closing remarks and apéro
     </td>
     <td>
-          TBD
+          By Kevin Jamieson
     </td>
   </tr>
