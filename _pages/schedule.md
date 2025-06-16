@@ -20,18 +20,27 @@ nav_order: 3
       </tr>
       <tr>
   <tr class="header" style="cursor: pointer">
-    <td>8:50 - 9:00</td>
+    <td>8:30 - 8:45</td>
     <td>
-    Opening Remarks
+   Welcome Session
     </td>
     <td>
-    By Andreas Krause
+    Opening remarks and announcement of the best papers By Andreas Krause
     </td>
   </tr>
   
-              
+   <tr class="header" style="cursor: pointer">
+    <td>8:45-9:30</td>
+    <td>
+    Contributed talks
+    </td>
+    <td>
+          Contributed talks for the best papers (4 papers, one talk each)
+    </td>
+  </tr>
+
   <tr class="header" style="cursor: pointer">
-    <td>9:00-10:30</td>
+    <td>9:30-11:00</td>
     <td>
     RL and Robotics
     </td>
@@ -42,27 +51,27 @@ nav_order: 3
   
   
   <tr class="header" style="cursor: pointer">
-    <td>10:30-11:30</td>
+    <td>11:00-11:45</td>
     <td>
     Panel Discussion
     </td>
     <td>
-            Panel discussion led by TBD
+            Panel discussion on TBD led by TBD
     </td>
   </tr>
 
   <tr class="header" style="cursor: pointer">
-    <td>11:30-14:00</td>
+    <td>11:45-14:15</td>
     <td>
     Poster session and lunch
     </td>
     <td>
-            Organization TBD
+            Presentation of papers accepted across all 4 tracks
     </td>
   </tr>
 
   <tr class="header" style="cursor: pointer">
-    <td>14:00-15:30</td>
+    <td>14:15-15:45</td>
     <td>
     Language Modeling
     </td>
@@ -72,12 +81,12 @@ nav_order: 3
   </tr>
 
   <tr class="header" style="cursor: pointer">
-    <td>15:30-16:00</td>
+    <td>15:45-16:00</td>
     <td>
     Coffee break
     </td>
     <td>
-            TBD
+            Sponsored
     </td>
   </tr>
 
@@ -92,21 +101,11 @@ nav_order: 3
   </tr>
 
   <tr class="header" style="cursor: pointer">
-    <td>17:00-18:00</td>
+    <td>17:00-17:15</td>
     <td>
-    Awards and contributed talks
+    Closing remarks
     </td>
     <td>
-          Announcement of the best papers and contributed talks (4 papers, one talk each)
-    </td>
-  </tr>
-
-  <tr class="header" style="cursor: pointer">
-    <td>17:00-18:00</td>
-    <td>
-    Closing remarks and apéro
-    </td>
-    <td>
-          By Kevin Jamieson
+          Given by Kevin Jamieson
     </td>
   </tr>
