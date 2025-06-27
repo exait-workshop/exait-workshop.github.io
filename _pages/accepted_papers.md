@@ -19,14 +19,54 @@ nav_order: 2  # adjust to control tab order (this puts it between "Call for Pape
 
 <h2>Best Papers</h2>
 <p style="text-align: justify">
-Best paper awards for the Exploration in AI Today workshop at ICML 2025 will be soon announced.
+Best papers are awarded 500USD and assigned a short presentation slot.
 </p>
+<table class="table" style="border-collapse:collapse; width: 100%">
+  <tr style="background-color:rgb(188,198,100); border-top: 1pt solid #f7f8fa; border-bottom: 1pt solid black;">
+    <th style="width: 30%; border-top-left-radius: 10px;">Track</th>
+    <th style="width: 70%; border-top-right-radius: 10px;">Paper</th>
+  </tr>
+  
+  <tr>
+    <td>Language Modeling</td>
+    <td>
+      <a href="https://openreview.net/forum?id=bL8xaTGjJB"><b>e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs</b></a>, 
+      Amrith Setlur, Matthew Y. R. Yang, Charlie Victor Snell, Jeremiah Greer, Ian Wu, Virginia Smith, Max Simchowitz, Aviral Kumar.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>RL and Theory</td>
+    <td>
+      <a href="https://openreview.net/forum?id=dYePt0YpTp"><b>Provably Learning from Language Feedback</b></a>, 
+      Wanqiao Xu, Allen Nie, Ruijie Zheng, Aditya Modi, Adith Swaminathan, Ching-An Cheng.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Robotics</td>
+    <td>
+      <a href="https://openreview.net/forum?id=zqfT2QOiiF"><b>Blindfolded Experts Generalize Better: Insights from Robotic Manipulation and Videogames</b></a>, 
+      Ev Zisselman, Mirco Mutti, Shelly Francis-Meretzki, Elisei Shafer, Aviv Tamar.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>AI for Science</td>
+    <td>
+      <a href="https://openreview.net/forum?id=YqQoNJWY22"><b>A Diffusion Model to Shrink Proteins While Maintaining their Function</b></a>, 
+      Ethan Baron, Alan Nawzad Amin, Ruben Weitzman, Debora Susan Marks, Andrew Gordon Wilson.
+    </td>
+  </tr>
+</table>
+
 
 <h2>Accepted Papers</h2>
 <b>RL and Theory</b>
 <ul>
 <li><a href="https://openreview.net/forum?id=o5o3krO0ck">The Effective Horizon Challenge</a>, Cassidy Laidlaw, Daniel Khalil, Michelle Li, Laker Newhouse, Stuart Russell, Anca Dragan.</li>
 <li><a href="https://openreview.net/forum?id=mkwVgBrsAL">No-Regret Safety: Balancing Tests and Misclassification in Logistic Bandits</a>, Tavor Baharav, Spyros Dragazis, Aldo Pacchiano.</li>
+<li><a href="https://openreview.net/forum?id=dYePt0YpTp">Provably Learning from Language Feedback</a>, Wanqiao Xu, Allen Nie, Ruijie Zheng, Aditya Modi, Adith Swaminathan, Ching-An Cheng.</li>
 <li><a href="https://openreview.net/forum?id=mZvbygIoU5">Retrospective and Structurally Informed Exploration via Cross-task Successor Feature Similarity</a>, Arya Ebrahimi, Jun Jin.</li>
 <li><a href="https://openreview.net/forum?id=cSU2jEzanw">Greed is Good: A Unifying Perspective on Guided Generation</a>, Zander W. Blasingame, Chen Liu.</li>
 <li><a href="https://openreview.net/forum?id=bBfrmpvsTo">Intrinsic Benefits of Categorical Distributional Loss: Uncertainty-aware Regularized Exploration in Reinforcement Learning</a>, Ke Sun, Yingnan Zhao, Enze Shi, Yafei Wang, Xiaodong Yan, Bei Jiang, Linglong Kong.</li>
@@ -48,7 +88,6 @@ Best paper awards for the Exploration in AI Today workshop at ICML 2025 will be 
 <li><a href="https://openreview.net/forum?id=iMfaTyDpRA">Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models</a>, Jiaqi WANG, Kevin Qinghong Lin, James Cheng, Mike Zheng Shou.</li>
 <li><a href="https://openreview.net/forum?id=fwX6SmZlYo">Improving the Data-efficiency of Reinforcement Learning by Warm-starting with LLM</a>, Thang Duong, Minglai Yang, Chicheng Zhang.</li>
 <li><a href="https://openreview.net/forum?id=ev1xpo9mbI">Llama-Nemotron: Efficient Reasoning Models</a>, Soumye Singhal, Jiaqi Zeng, Alexander Bukharin, Yian Zhang, Gerald Shen, Ameya Sunil Mahabaleshwarkar, Bilal Kartal, Yoshi Suhara, Akhiad Bercovich, Itay Levy, Izik Golan, Mohammed Dabbah, Ran El-Yaniv, Somshubra Majumdar, Igor Gitman, Evelina Bakhturina, Jimmy J. Zhang, Bor-Yiing Su, Guyue Huang, Izzy Putterman, Mostofa Patwary, Oluwatobi Olabiyi, Olivier Delalleau, Bryan Catanzaro, Boris Ginsburg, Oleksii Kuchaiev, Tugrul Konuk.</li>
-<li><a href="https://openreview.net/forum?id=dYePt0YpTp">Provably Learning from Language Feedback</a>, Wanqiao Xu, Allen Nie, Ruijie Zheng, Aditya Modi, Adith Swaminathan, Ching-An Cheng.</li>
 <li><a href="https://openreview.net/forum?id=bL8xaTGjJB">e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs</a>, Amrith Setlur, Matthew Y. R. Yang, Charlie Victor Snell, Jeremiah Greer, Ian Wu, Virginia Smith, Max Simchowitz, Aviral Kumar.</li>
 <li><a href="https://openreview.net/forum?id=b9EreX9xL0">LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities</a>, Thomas Schmied, Jörg Bornschein, Jordi Grau-Moya, Markus Wulfmeier, Razvan Pascanu.</li>
 <li><a href="https://openreview.net/forum?id=LS5me2u9MK">Gathering Context that Supports Decisions via Entropy Search with Language Models</a>, Sang T. Truong, Sicong Huang, Pranava Singhal, Tai Dang, Yukang Wen, Duc Quang Nguyen, Violet Xiang, Sanmi Koyejo, Nick Haber.</li>
