@@ -76,7 +76,7 @@ nav_order: 3
     Language Modeling
     </td>
     <td>
-            Invited talks by Natasha, Dylan, and Rishabh
+            Invited talks by Natasha, Dylan, and Wenhao
     </td>
   </tr>
 
