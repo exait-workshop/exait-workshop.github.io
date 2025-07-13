@@ -113,16 +113,16 @@ ninja.data = [{
           description: "",
           section: "Speakers",handler: () => {
               window.location.href = "/speakers/natasha_jaques/";
-            },},{id: "speakers-rishabh-agarwal",
-          title: 'Rishabh_agarwal',
-          description: "",
-          section: "Speakers",handler: () => {
-              window.location.href = "/speakers/rishabh_agarwal/";
             },},{id: "speakers-sergey-levine",
           title: 'Sergey_levine',
           description: "",
           section: "Speakers",handler: () => {
               window.location.href = "/speakers/sergey_levine/";
+            },},{id: "speakers-wenhao-yu",
+          title: 'Wenhao_yu',
+          description: "",
+          section: "Speakers",handler: () => {
+              window.location.href = "/speakers/wenhao_yu/";
             },},{
         id: 'social-email',
         title: 'email',
