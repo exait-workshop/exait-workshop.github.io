@@ -74,7 +74,7 @@ nav_order: 3
     <tr class="header" style="cursor: pointer">
       <td>16:00-17:00</td>
       <td>Invited talk</td>
-      <td><strong>Ji Won Park</strong></td>
+      <td><strong>Ji Won Park</strong>: Targeting the Multivariate Tails in AI-driven Molecular Optimization</td>
     </tr>
     <tr class="header" style="cursor: pointer">
       <td>16:00-17:00</td>
