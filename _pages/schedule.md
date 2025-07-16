@@ -54,7 +54,7 @@ nav_order: 3
     <tr class="header" style="cursor: pointer">
       <td>14:15-15:45</td>
       <td>Invited talk</td>
-      <td><strong>Natasha Jaques</strong></td>
+      <td><strong>Natasha Jaques</strong>: Exploration in Human-AI Cooperation</td>
     </tr>
     <tr class="header" style="cursor: pointer">
       <td>14:15-15:45</td>
@@ -64,7 +64,7 @@ nav_order: 3
     <tr class="header" style="cursor: pointer">
       <td>14:15-15:45</td>
       <td>Invited talk</td>
-      <td><strong>Wenhao Yu</strong>: Gemini Robotics</td>
+      <td><strong>Wenhao Yu</strong>: Laying the Bricks for Scalable Robot Learning</td>
     </tr>
     <tr class="header" style="cursor: pointer">
       <td>15:45-16:00</td>
@@ -74,13 +74,13 @@ nav_order: 3
     <tr class="header" style="cursor: pointer">
       <td>16:00-17:00</td>
       <td>Invited talk</td>
-      <td><strong>Ji Won Park</strong>: Targeting the Multivariate Tails in AI-driven Molecular Optimization</td>
-    </tr>
+<td><strong>Masatoshi Uehara</strong>: Reward-Guided Generation in Diffusion Models: Toward Programmable Protein Design</td>
+</tr>
     <tr class="header" style="cursor: pointer">
       <td>16:00-17:00</td>
       <td>Invited talk</td>
-      <td><strong>Masatoshi Uehara</strong>: Reward-Guided Generation in Diffusion Models: Toward Programmable Protein Design</td>
-    </tr>
+<td><strong>Ji Won Park</strong>: Targeting the Multivariate Tails in AI-driven Molecular Optimization</td>
+      </tr>
     <tr class="header" style="cursor: pointer">
       <td>17:00-17:15</td>
       <td>Closing remarks</td>
