@@ -34,7 +34,7 @@ nav_order: 3
     <tr class="header" style="cursor: pointer">
       <td>9:30-11:00</td>
       <td>Invited Talk</td>
-      <td><strong>Sergey Levine</strong></td>
+      <td><strong>Sergey Levine</strong>: Exploration with prior knowledge</td>
     </tr>
     <tr class="header" style="cursor: pointer">
       <td>9:30-11:00</td>
@@ -59,7 +59,7 @@ nav_order: 3
     <tr class="header" style="cursor: pointer">
       <td>14:15-15:45</td>
       <td>Invited talk</td>
-      <td><strong>Dylan Foster</strong></td>
+      <td><strong>Dylan Foster</strong>: Theoretical Foundations for Exploration with Language Models</td>
     </tr>
     <tr class="header" style="cursor: pointer">
       <td>14:15-15:45</td>
