@@ -34,7 +34,7 @@ nav_order: 3
     <tr class="header" style="cursor: pointer">
       <td>9:30-11:00</td>
       <td>Invited Talk</td>
-      <td><strong>Sergey Levine</strong>: Exploration with prior knowledge</td>
+      <td><strong>Sergey Levine</strong>: Exploration with Prior Knowledge</td>
     </tr>
     <tr class="header" style="cursor: pointer">
       <td>9:30-11:00</td>
