@@ -22,22 +22,37 @@ nav_order: 3
       <td>Opening remarks and announcement of the best papers by <strong>Andreas Krause</strong></td>
     </tr>
     <tr class="header" style="cursor: pointer">
-      <td>8:45-9:30</td>
-      <td>Contributed talks</td>
-      <td>Contributed talks for the best papers (4 papers, one talk each)</td>
+      <td>8:45-8:55</td>
+      <td>Best Paper Award Language Modeling Track </td>
+      <td><a href="https://openreview.net/forum?id=bL8xaTGjJB&referrer=%5BProgram%20Chair%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FWorkshop%2FEXAIT%2FProgram_Chairs%23submission-status)"> 	E3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs</a> </td>
     </tr>
     <tr class="header" style="cursor: pointer">
-      <td>9:30-11:00</td>
+      <td>8:55-9:05</td>
+      <td>Best Paper Award AI for Science Track</td>
+      <td><a href="https://openreview.net/forum?id=YqQoNJWY22&referrer=%5BProgram%20Chair%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FWorkshop%2FEXAIT%2FProgram_Chairs%23submission-status)"> 	A Diffusion Model to Shrink Proteins While Maintaining their Function</a> </td>
+    </tr>
+    <tr class="header" style="cursor: pointer">
+      <td>9:05-9:15</td>
+      <td>Best Paper Award Theory Track</td>
+      <td><a href="https://openreview.net/forum?id=dYePt0YpTp&referrer=%5BProgram%20Chair%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FWorkshop%2FEXAIT%2FProgram_Chairs%23submission-status)"> 	Provably Learning from Language Feedback</a> </td>
+    </tr>
+    <tr class="header" style="cursor: pointer">
+      <td>9:15-9:25</td>
+      <td>Best Paper Award Robotics Track </td>
+      <td><a href="https://openreview.net/forum?id=zqfT2QOiiF&referrer=%5BProgram%20Chair%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FWorkshop%2FEXAIT%2FProgram_Chairs%23submission-status)"> 	Blindfolded Experts Generalize Better: Insights from Robotic Manipulation and Videogames</a> </td>
+    </tr>
+    <tr class="header" style="cursor: pointer">
+      <td>9:30-10:00</td>
       <td>Invited Talk</td>
       <td><strong>Alison Gopnik</strong></td>
     </tr>
     <tr class="header" style="cursor: pointer">
-      <td>9:30-11:00</td>
+      <td>10:00-10:30</td>
       <td>Invited Talk</td>
       <td><strong>Sergey Levine</strong>: Exploration with Prior Knowledge</td>
     </tr>
     <tr class="header" style="cursor: pointer">
-      <td>9:30-11:00</td>
+      <td>10:30-11:00</td>
       <td>Invited Talk</td>
       <td><strong>Jeff Clune</strong>: Open-Ended and AI-Generating Algorithms in the Era of Foundation Models</td>
     </tr>
@@ -52,17 +67,17 @@ nav_order: 3
       <td>-</td>
     </tr>
     <tr class="header" style="cursor: pointer">
-      <td>14:15-15:45</td>
+      <td>14:15-14:45</td>
       <td>Invited talk</td>
       <td><strong>Natasha Jaques</strong>: Exploration in Human-AI Cooperation</td>
     </tr>
     <tr class="header" style="cursor: pointer">
-      <td>14:15-15:45</td>
+      <td>14:45-15:15</td>
       <td>Invited talk</td>
       <td><strong>Dylan Foster</strong>: Theoretical Foundations for Exploration with Language Models</td>
     </tr>
     <tr class="header" style="cursor: pointer">
-      <td>14:15-15:45</td>
+      <td>15:15-15:45</td>
       <td>Invited talk</td>
       <td><strong>Wenhao Yu</strong>: Laying the Bricks for Scalable Robot Learning</td>
     </tr>
@@ -72,12 +87,12 @@ nav_order: 3
       <td>Sponsored</td>
     </tr>
     <tr class="header" style="cursor: pointer">
-      <td>16:00-17:00</td>
+      <td>16:00-16:30</td>
       <td>Invited talk</td>
 <td><strong>Masatoshi Uehara</strong>: Reward-Guided Generation in Diffusion Models: Toward Programmable Protein Design</td>
 </tr>
     <tr class="header" style="cursor: pointer">
-      <td>16:00-17:00</td>
+      <td>16:30-17:00</td>
       <td>Invited talk</td>
 <td><strong>Ji Won Park</strong>: Targeting the Multivariate Tails in AI-driven Molecular Optimization</td>
       </tr>
