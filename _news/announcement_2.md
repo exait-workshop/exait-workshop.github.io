@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The workshop will be held on July 19th, at Meeting Room 205-207.
+The workshop will be held on July 19th, at West Meeting Room 205-207.
