@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/schedule/";
           },
-        },{id: "news-the-workshop-will-be-held-on-july-19th-at-meeting-room-205-207",
-          title: 'The workshop will be held on July 19th, at Meeting Room 205-207.',
+        },{id: "news-the-workshop-will-be-held-on-july-19th-at-west-meeting-room-205-207",
+          title: 'The workshop will be held on July 19th, at West Meeting Room 205-207....',
           description: "",
           section: "News",},{id: "organizers-amy-x-lu",
           title: 'Amy_x_lu',
