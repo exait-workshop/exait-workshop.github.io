@@ -1,0 +1,28 @@
+<div class="card-item col">
+    <div class="card hoverable">
+      <div class="row g-0">
+        {% if panelist.img %}
+          <div class="card-img col-md-5">
+            {% include figure.liquid loading="eager" path=panelist.img sizes="(min-width: 768px) 156px, 50vw" alt="panelist thumbnail" %}
+          </div>
+        {% endif %}
+        <div class="{% if panelist.img %}col-md-7{% else %}col-md-12{% endif %}">
+          <div class="card-body">
+            <h4 class="card-title">{{ panelist.name }}</h4>
+            <p class="card-text">{{ panelist.affiliation }}</p>
+            <div class="row ml-1 mr-1 p-0">
+              {% if panelist.website %}
+                    <a href="{{ panelist.website }}"><i class="ti ti-home"></i></a>
+              {% endif %}
+              {% if panelist.scholar %}
+                    <a href="{{ panelist.scholar }}"><i class="ai ai-google-scholar"></i></a>
+              {% endif %}
+              {% if panelist.twitter %}
+                    <a href="{{ panelist.twitter }}"><i class="fa-brands fa-twitter gh-icon"></i></a>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>

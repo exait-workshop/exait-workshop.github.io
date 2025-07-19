@@ -1,0 +1,43 @@
+<div class="grid-sizer"></div>
+<div class="grid-item">
+    <div class="card hoverable">
+      {% if panelist.img %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=panelist.img
+          sizes = "250px"
+          alt="panelist thumbnail"
+        %}
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title">{{ panelist.name }}</h2>
+        <p class="card-text">{{ panelist.affiliation }}</p>
+        <div class="row ml-1 mr-1 p-0">
+          {% if panelist.website %}
+            <div class="website-icon">
+              <div class="icon" data-toggle="tooltip" title="Website">
+                <a href="{{ panelist.website }}"><i class="fas fa-address-card"></i></a>
+              </div>
+            </div>
+          {% endif %}
+
+          {% if panelist.scholar %}
+            <div class="scholar-icon">
+              <div class="icon" data-toggle="tooltip" title="Google Scholar Account">
+                <a href="{{ panelist.scholar }}"><i class="ai ai-google-scholar"></i></a>
+              </div>
+            </div>
+          {% endif %}
+
+          {% if panelist.twitter %}
+            <div class="twitter-icon">
+              <div class="icon" data-toggle="tooltip" title="Twitter Account">
+                <a href="{{ panelist.twitter }}"><i class="fa-brands fa-twitter gh-icon"></i></a>
+              </div>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+</div>
