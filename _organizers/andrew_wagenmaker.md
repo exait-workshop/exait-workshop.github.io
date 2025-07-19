@@ -7,4 +7,5 @@ importance: 5
 category: Organizer
 website: https://wagenmaker.github.io/
 scholar: https://scholar.google.com/citations?user=ym8AZSIAAAAJ&hl=en&oi=ao
+twitter: https://x.com/ajwagenmaker
 ---
