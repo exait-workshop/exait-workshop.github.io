@@ -102,6 +102,29 @@ The Exploration in AI Today Workshop at ICML 2025 will focus on addressing the e
 {% endif %}
 </div>
 
+<!-- Panelists -->
+<br>
+<h1><b>Panelists</b></h1>
+
+<div class="speakers">
+  {% assign sorted_panelists = site.panelists | sort: "importance" %}
+
+  {% if page.speaker_horizontal %}
+  <div class="container">
+    <div class="row row-cols-2">
+      {% for panelist in sorted_panelists %}
+        {% include speakers_horizontal.liquid %}
+      {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="grid">
+    {% for panelist in sorted_panelists %}
+      {% include speakers.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
 
 <br>
 <!-- Organizers -->
