@@ -59,7 +59,7 @@ nav_order: 3
     <tr class="header" style="cursor: pointer">
       <td>11:00-11:45</td>
       <td>Panel Discussion</td>
-      <td>Led by <strong>Andrew Wagenmaker</strong> and <strong>Parnian Kassraie</strong></td>
+      <td>Led by <strong>Andrew Wagenmaker</strong> and <strong>Parnian Kassraie</strong>. Panelists: <strong>Jeff Clune</strong>, <strong>Masatoshi Uehara</strong>, <strong>Ji Won Park</strong>, <strong>Aviral Kumar</strong>, <strong>Kevin Jamieson</strong>, <strong>Andreas Krause</strong></td>
     </tr>
     <tr class="header" style="cursor: pointer">
       <td>11:45-14:15</td>
