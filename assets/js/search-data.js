@@ -83,6 +83,36 @@ ninja.data = [{
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/pieter_abbeel%20/";
+            },},{id: "panelists-andreas-krause",
+          title: 'Andreas_krause',
+          description: "",
+          section: "Panelists",handler: () => {
+              window.location.href = "/panelists/andreas_krause/";
+            },},{id: "panelists-aviral-kumar",
+          title: 'Aviral_kumar',
+          description: "",
+          section: "Panelists",handler: () => {
+              window.location.href = "/panelists/aviral_kumar/";
+            },},{id: "panelists-jeff-clune",
+          title: 'Jeff_clune',
+          description: "",
+          section: "Panelists",handler: () => {
+              window.location.href = "/panelists/jeff_clune/";
+            },},{id: "panelists-ji-won-park",
+          title: 'Ji_won_park',
+          description: "",
+          section: "Panelists",handler: () => {
+              window.location.href = "/panelists/ji_won_park/";
+            },},{id: "panelists-kevin-jamieson",
+          title: 'Kevin_jamieson',
+          description: "",
+          section: "Panelists",handler: () => {
+              window.location.href = "/panelists/kevin_jamieson/";
+            },},{id: "panelists-masatoshi-uehara",
+          title: 'Masatoshi_uehara',
+          description: "",
+          section: "Panelists",handler: () => {
+              window.location.href = "/panelists/masatoshi_uehara/";
             },},{id: "speakers-alison-gopnik",
           title: 'Alison_gopnik',
           description: "",
