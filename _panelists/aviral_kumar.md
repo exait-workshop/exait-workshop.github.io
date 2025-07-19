@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Aviral Cumar Clune
+name: Aviral Kumar
 affiliation: Carnegie Mellon University
 img: assets/img/aviral_kumar.jpg
 importance: 4
